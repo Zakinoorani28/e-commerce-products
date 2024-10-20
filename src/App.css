@@ -26,6 +26,7 @@
 
 .product-form {
   margin-top: 20px;
+  padding-right: 20px;
 }
 
 .product-form input {
@@ -38,12 +39,12 @@
 
 .product-form button {
   padding: 10px 20px;
-  background-color: #28a745;
+  background-color: #0070f3;
   color: white;
   border: none;
   cursor: pointer;
 }
 
 .product-form button:hover {
-  background-color: #218838;
+  background-color: #09386e;
 }
